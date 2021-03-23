@@ -1,0 +1,12 @@
+{
+  "name": "ReciclarteWord",
+  "displayName": "ReciclarteWord",
+  "expo": {
+    "name": "ReciclarteWord",
+    "slug": "ReciclarteWord",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
